@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="percent_pink">#ea8787</color>
+    <color name="percent_yellow">#f2db06</color>
+    <color name="percent_pink_red">#e40b0b</color>
+    <color name="percent_red">#f95c5c</color>
+    <color name="percent_deep_red">#ff0303</color>
+    <color name="percent_gray">#787272</color>
+</resources>
